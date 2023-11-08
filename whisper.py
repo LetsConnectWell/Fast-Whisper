@@ -1,3 +1,5 @@
+# Fast whisper transcription
+
 import textwrap
 
 wrapper = textwrap.TextWrapper(width=80,
