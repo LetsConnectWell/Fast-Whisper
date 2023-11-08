@@ -1,0 +1,7 @@
+optimum==1.14.0
+protobuf==4.25.0
+torch==2.1.0
+transformers==4.33.3
+accelerate
+datasets[audio]
+optimum
